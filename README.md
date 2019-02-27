@@ -9,13 +9,13 @@ Contiene todas las evidencias generadas por todos los miembros del equipo, y una
 **Materiales:**
 Contiene los materiales utilizados por el equipo y viene separado en tres categorías.
 
-  **→Bitácoras:**
+  - **Bitácoras:**
           Incluye las bitácoras utilizadas por el jefe de equipo para señalar las tareas semanales de cada miembro.
           
-  **→Diapositivas:**
+  - **Diapositivas:**
           Incluye las diapositivas utilizadas por el equipo en las presentaciones.
           
-  **→Reportes:**
+  - **Reportes:**
           Incluye los reportes oficiales que son para revisión del maestro.
              
 **Reflexiones:** 
