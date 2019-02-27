@@ -8,6 +8,7 @@ Contiene todas las evidencias generadas por todos los miembros del equipo, y una
 
 Materiales:
 Contiene los materiales utilizados por el equipo y viene separado en tres categorías.
+
     Bitácoras:
               Incluye las bitácoras utilizadas por el jefe de equipo para señalar las tareas semanales de cada miembro.
     Diapositivas:
