@@ -11,8 +11,10 @@ Contiene los materiales utilizados por el equipo y viene separado en tres catego
 
   **→Bitácoras:**
           Incluye las bitácoras utilizadas por el jefe de equipo para señalar las tareas semanales de cada miembro.
+          
   **→Diapositivas:**
           Incluye las diapositivas utilizadas por el equipo en las presentaciones.
+          
   **→Reportes:**
           Incluye los reportes oficiales que son para revisión del maestro.
              
