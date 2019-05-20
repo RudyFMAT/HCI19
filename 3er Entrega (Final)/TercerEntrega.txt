@@ -1,7 +1,8 @@
 Tercer entrega: Equipo 5
 Evidencias:
 ERS-EMCN:
-Metricas_Resultados-LJMF:
+Metricas-LJMF:
+Resultados-LJMF:
 Reporte-SGCC:
 Poster-CAVB:
 Bitacora_Materiales-REMP:
